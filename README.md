@@ -31,9 +31,9 @@ The Analysis of the election results showed that:
 ## Challenge Overview
 
 In addition to the candidate analysis, Seth has also requested that we retrieve the following information during the audit:
-  - The County voter turnout
-  - The Percentage votes per county out of total
-  - The County with the largest voter tournout
+
+  - The County with the largest voter tournout using the county vote turnout and the
+    percentage vote per county out of total.
 
 ## Challenge Summary
 
