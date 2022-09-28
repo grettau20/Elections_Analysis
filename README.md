@@ -39,8 +39,10 @@ In addition to the candidate analysis, Seth has also requested that we retrieve 
 
 The additional analysis of the election results reveiled that 
   - The county with the largest voter turnout was 
-      * Denver with 82.8% of the votes and 306,055 number of votes
-![<img width="494" alt="Screen Shot 2022-09-27 at 11 35 40 PM" src="https://user-images.githubusercontent.com/8636886/192688883-8d492ee4-343f-415a-b812-119131a87ae3.png">]
+      * Denver with 82.8% of the votes and 306,055 number of votes.
+The final code output was as the image below:
+
+<img width="494" alt="Screen Shot 2022-09-27 at 11 35 40 PM" src="https://user-images.githubusercontent.com/8636886/192688883-8d492ee4-343f-415a-b812-119131a87ae3.png">
 
 
 We hope than Seth finds the information in this audit valuable and very helpful for his review of the recent congressional election results.
